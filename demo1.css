@@ -1,0 +1,16 @@
+h1{
+    color: red;
+    background-color: aquamarine;
+    text-align: center;
+    text-transform:capitalize;
+}
+
+p{
+    color: aquamarine;
+    background-color: cornsilk;
+    text-decoration: underline;
+}
+h3{
+    color: blue;
+    
+}
