@@ -266,9 +266,26 @@ Units in CSS :-
 
 - we use units for mostlly handle of our responsive issue in css. 
 - there are many units are there like.. 
-1. px - pixel
-2. % - percentage
-3. VH & VW - viewport height & viewport width
-4. vmax & vmin - viewport maximum & viewport minimum
-5. em & rem  
+1. px - pixel - it is fixed as per the size
+
+2. % - percentage - it depends on parents element
+
+3. VH & VW - viewport height & viewport width - it works on viewport i.e depends om total screen size , wheather it is laptop screen or tablet or phone.
+
+4. vmax & vmin - viewport maximum & viewport minimum - it works basically your perfect responsiveness, when your laptop width is min to your phone height then it stop shrinking and it break the wording. 
+- laptop width < phone height = break the line
+
+5. em - basically em depends on parent element 
+ex. when parent element is 20 px then our 1 em is 20 px like wise when we increase our em to 2em then we consider 2em = 40px.
+
+6. rem - it is also a fixed unit. (1rem = 16px).
+
+
+
+
+
+
+
+
+
 
