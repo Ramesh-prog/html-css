@@ -240,3 +240,35 @@ Display Property :-
 2. block :- takes full space avalable on width.
 3. inline-block :- similar to inline element
 4. none :- to remove element from document flow. 
+
+Box-Model in CSS :- 
+
+- we need to identify the box model for properly placed all the things in a web page and create all the things inside a box. 
+
+- there are 5 types of box-model element are there like :- 
+
+1. Height :- by default, it sets the content area height of the element
+2. Weight :- by default it sets the content area width of the elememt.
+3. Border :- used to set an element border.
+4. Padding :- padding is used for the distance between content to box.
+- padding-left
+- padding-right
+- padding-top
+- padding-buttom
+5. Margin
+
+practice question :- 
+
+1. create a div with height & width of 100px.
+    set its background color to green & the border radius to 50%.
+
+Units in CSS :- 
+
+- we use units for mostlly handle of our responsive issue in css. 
+- there are many units are there like.. 
+1. px - pixel
+2. % - percentage
+3. VH & VW - viewport height & viewport width
+4. vmax & vmin - viewport maximum & viewport minimum
+5. em & rem  
+
