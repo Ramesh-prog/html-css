@@ -280,10 +280,22 @@ ex. when parent element is 20 px then our 1 em is 20 px like wise when we increa
 
 6. rem - it is also a fixed unit. (1rem = 16px).
 
+Flexbox :- 
 
+- it is a one dimentional layout method for arranging items in rows or columns. 
 
+flex-derection :- 
 
+- it sets how flex item are placed in the flex container, along which access it is. 
+- flexbox-direction: row;(default)
+- flexbox-direction: column;
+- flexbox-direction: row-reverse;
+- flexbox-direction: column-reverse;
+- justify-content: center/left/right (allignment the item along with main axis)
+- allign-item: center....
+- flex-wrap: wrap/nowrap/wrap-reverse
 
+Grid in CSS :- grid basically a two dimentional structure to arranging your element. 
 
 
 
